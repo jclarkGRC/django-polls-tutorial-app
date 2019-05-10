@@ -4,7 +4,9 @@ This is sample application used to learn how to use the Django web framework.  T
 
 ## How to use the application
 
-After cloning the project run the following command.
+Set up your database configuration in the settings.py within the mysite directory.  More information on setting up databases with Django is available here: https://docs.djangoproject.com/en/2.2/topics/install/#database-installation
+
+After setting up your database run the following command:
 
 python manage.py runserver
 
