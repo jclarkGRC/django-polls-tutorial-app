@@ -4,7 +4,7 @@ This is sample application used to learn how to use the Django web framework.  T
 
 ## How to use the application
 
-After cloning the project run the following command
+After cloning the project run the following command.
 
 python manage.py runserver
 
